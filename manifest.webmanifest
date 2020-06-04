@@ -3,6 +3,7 @@
   "short_name": "Calculator",
   "theme_color": "#000",
   "background_color": "#000",
+  "description": "A minimalistic calculator for quick, every-day calculations.",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
